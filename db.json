@@ -71,6 +71,30 @@
       "imageSrc": "/assets/book2.png",
       "category": "SS3",
       "subcategory": "History"
+    },
+    {
+      "id": 7,
+      "title": "Biology Explained",
+      "price": 24.99,
+      "content": "A beginner's guide to the world of biology...",
+      "pages": 180,
+      "excerpt": "Discover the wonders of the natural world...",
+      "author": "Daniel White",
+      "imageSrc": "/assets/book1.png",
+      "category": "JSS1",
+      "subcategory": "Biology"
+    },
+    {
+      "id": 8,
+      "title": "Literary Analysis",
+      "price": 21.75,
+      "content": "An essential guide to analyzing and understanding literature...",
+      "pages": 210,
+      "excerpt": "Develop critical thinking skills through literary analysis...",
+      "author": "Olivia Davis",
+      "imageSrc": "/assets/book2.png",
+      "category": "JSS2",
+      "subcategory": "Literature"
     }
   ],
   "users": [
