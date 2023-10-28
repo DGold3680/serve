@@ -71,30 +71,6 @@
       "imageSrc": "/assets/book2.png",
       "category": "SS3",
       "subcategory": "History"
-    },
-    {
-      "id": 7,
-      "title": "Biology Explained",
-      "price": 24.99,
-      "content": "A beginner's guide to the world of biology...",
-      "pages": 180,
-      "excerpt": "Discover the wonders of the natural world...",
-      "author": "Daniel White",
-      "imageSrc": "/assets/book1.png",
-      "category": "JSS1",
-      "subcategory": "Biology"
-    },
-    {
-      "id": 8,
-      "title": "Literary Analysis",
-      "price": 21.75,
-      "content": "An essential guide to analyzing and understanding literature...",
-      "pages": 210,
-      "excerpt": "Develop critical thinking skills through literary analysis...",
-      "author": "Olivia Davis",
-      "imageSrc": "/assets/book2.png",
-      "category": "JSS2",
-      "subcategory": "Literature"
     }
   ],
   "users": [
@@ -109,14 +85,6 @@
           "subject": "Algebra",
           "date": "2023-10-26",
           "topic": "Concepts"
-        },
-        {
-          "id": 2,
-          "note": "I'm enjoying learning chemistry from this book.",
-          "author": "Robert Johnson",
-          "subject": "Chemistry",
-          "date": "2023-10-26",
-          "topic": "Learning Chemistry"
         }
       ],
       "favoriteBooks": [1, 3, 6, 10],
